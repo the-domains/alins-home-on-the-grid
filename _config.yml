@@ -1,14 +1,14 @@
-layout_spectrum: 0.912411981029436
-typography_spectrum: 0.6574416582006961
+layout_spectrum: 0.22375847562216222
+typography_spectrum: 0.4191127645317465
 color:
-  brandStrength: 0.8975588278844953
-  lightness: 0.05227532330900431
-  saturation: 0.5191287393681705
-  rhythmicContrast: 0.7346893786452711
+  brandStrength: 0.3967129460070282
+  lightness: 0.5802074142266065
+  saturation: 0.11866059084422886
+  rhythmicContrast: 0.4613850393798202
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: Alin's Home on the Grid
